@@ -8,3 +8,7 @@ This material:
 Timeboxed post-incident review reference.
 This repository separates immediate, 30-day, and 90-day review perspectives.
 
+Related references:
+- Post-Incident Decision Review
+- Institutional Friction Toolkit
+- Stop Authority (Reference)
